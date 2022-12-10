@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\bin\Debug\Saaristo-Asg7-RPS.exe.config
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\bin\Debug\Saaristo-Asg7-RPS.exe
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\bin\Debug\Saaristo-Asg7-RPS.pdb
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo_Asg7_RPS.Form1.resources
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo_Asg7_RPS.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.exe
+C:\Users\brian\source\repos\Saaristo-Asg7-RPS\obj\Debug\Saaristo-Asg7-RPS.pdb
